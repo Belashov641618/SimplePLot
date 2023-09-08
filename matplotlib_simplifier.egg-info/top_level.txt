@@ -1,1 +1,1 @@
-matplotlib-simplifier
+matplotlib_simplifier

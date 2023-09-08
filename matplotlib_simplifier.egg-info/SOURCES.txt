@@ -1,7 +1,7 @@
 setup.cfg
 setup.py
-matplotlib-simplifier/__init__.py
-matplotlib-simplifier/simpleplot.py
+matplotlib_simplifier/__init__.py
+matplotlib_simplifier/simpleplot.py
 matplotlib_simplifier.egg-info/PKG-INFO
 matplotlib_simplifier.egg-info/SOURCES.txt
 matplotlib_simplifier.egg-info/dependency_links.txt
