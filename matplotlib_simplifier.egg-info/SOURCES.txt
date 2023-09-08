@@ -1,9 +1,0 @@
-setup.cfg
-setup.py
-matplotlib_simplifier/__init__.py
-matplotlib_simplifier/simpleplot.py
-matplotlib_simplifier.egg-info/PKG-INFO
-matplotlib_simplifier.egg-info/SOURCES.txt
-matplotlib_simplifier.egg-info/dependency_links.txt
-matplotlib_simplifier.egg-info/not-zip-safe
-matplotlib_simplifier.egg-info/top_level.txt
